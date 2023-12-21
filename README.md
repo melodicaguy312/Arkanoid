@@ -8,7 +8,7 @@ This is a web-based implementation of the classic Arkanoid game. It's built usin
 
 This Arkanoid game allows you to control a paddle with the arrow keys or mouse to bounce a ball up and break bricks. The game includes features such as an aimbot and adjustable number of columns for the bricks.
 
-You can play the game [installing](#installation) the project in your machine or directly play it in https://r0zh.github.io/Arkanoid/ 
+You can play the game [installing](#installation) the project in your machine or directly play it [here](https://r0zh.github.io/Arkanoid/) 
 
 ## Installation
 
