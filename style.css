@@ -1,0 +1,21 @@
+canvas {
+  background: #eee;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  justify-content: center;
+}
+
+.options {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: fit-content;
+}
+
+#columns {
+  width: 50px;
+}
