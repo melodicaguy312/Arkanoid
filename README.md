@@ -13,7 +13,13 @@ You can play the game [installing](#installation) the project in your machine or
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Navigate to the project directory.
+3. Serve the project using a local server.
+
+   - If you have Node.js installed, you can install `http-server` by running `npm install --global http-server`. Then, start the server with `http-server .`
+   - If you're using Visual Studio Code, you can install the "Live Server" extension and use it to serve your project.
+   
+4. Open your web browser and go to `http://localhost:8080` (or the appropriate address if your server uses a different port).
 
 ## Usage
 
